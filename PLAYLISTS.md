@@ -9,7 +9,7 @@ Playlists in which channels are grouped by category.
 <br>
 
 ```
-https://iptv-org.github.io/iptv/index.category.m3u
+https://raw.githubusercontent.com/marinkliber362-commits/iptv-1/refs/heads/gh-pages/index.category.m3u
 ```
 
 Same thing, but split up into separate files:
@@ -49,7 +49,7 @@ Same thing, but split up into separate files:
     <tr><td>Sports</td><td align="right">468</td><td nowrap><code>https://iptv-org.github.io/iptv/categories/sports.m3u</code></td></tr>
     <tr><td>Travel</td><td align="right">61</td><td nowrap><code>https://iptv-org.github.io/iptv/categories/travel.m3u</code></td></tr>
     <tr><td>Weather</td><td align="right">17</td><td nowrap><code>https://iptv-org.github.io/iptv/categories/weather.m3u</code></td></tr>
-    <tr><td>XXX</td><td align="right">0</td><td nowrap><code>https://iptv-org.github.io/iptv/categories/xxx.m3u</code></td></tr>
+    <tr><td>XXX</td><td align="right">0</td><td nowrap><code>https://raw.githubusercontent.com/marinkliber362-commits/iptv-1/refs/heads/gh-pages/categories/xxx.m3u
     <tr><td>Undefined</td><td align="right">1532</td><td nowrap><code>https://iptv-org.github.io/iptv/categories/undefined.m3u</code></td></tr>
   </tbody>
 </table>
@@ -297,7 +297,7 @@ Playlists in which channels are grouped by broadcast area.
 #### Countries
 
 ```
-https://iptv-org.github.io/iptv/index.country.m3u
+https://raw.githubusercontent.com/marinkliber362-commits/iptv-1/refs/heads/gh-pages/index.category.m3u
 ```
 
 Same thing, but split up into separate files:
