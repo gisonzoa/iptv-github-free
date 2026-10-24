@@ -20,8 +20,6 @@ Collection of publicly available IPTV (Internet Protocol television) channels fr
 
 Simply paste the link to one of the playlists into [any video player](https://github.com/iptv-org/awesome-iptv#apps) that supports live streaming and press _Open_.
 
-![VLC Network Panel](https://github.com/iptv-org/iptv/raw/master/.readme/preview.png)
-
 ## Playlists
 
 The main playlist containing all channels available in the repository can be found at:
@@ -46,7 +44,7 @@ The API documentation can be found in the [iptv-org/api](https://github.com/iptv
 
 ## Resources
 
-Links to other useful IPTV-related resources can be found in the [iptv-org/awesome-iptv](https://github.com/iptv-org/awesome-iptv) repository.
+Links to other useful IPTV-related resources can be found in the [iptv-org/awesome-iptv]https://github.com/marinkliber362-commits/iptv-1 repository.
 
 ## Discussions
 
