@@ -25,7 +25,7 @@ Simply paste the link to one of the playlists into [any video player](https://gi
 The main playlist containing all channels available in the repository can be found at:
 
 ```
-https://raw.githubusercontent.com/marinkliber362-commits/iptv-1/refs/heads/gh-pages/index.m3u
+https://github.com/marinkliber362-commits/iptv-1/raw/refs/heads/gh-pages/index.m3u
 ```
 
 Links to other playlists can be found in the [PLAYLISTS.md](PLAYLISTS.md) file.
