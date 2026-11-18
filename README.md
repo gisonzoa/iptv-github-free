@@ -26,14 +26,13 @@ The main playlist containing all channels available in the repository can be fou
 
 ```
 https://raw.githubusercontent.com/gisonzoa/iptv-github-free/refs/heads/gh-pages/index.m3u
-...
+```
 
 And here is the full version:
 
 ...
 
 https://raw.githubusercontent.com/gisonzoa/iptv-github-free/refs/heads/gh-pages/index.nsfw.m3u
-
 ```
 
 Links to other playlists can be found in the [PLAYLISTS.md](PLAYLISTS.md) file.
