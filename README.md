@@ -23,17 +23,21 @@ Simply paste the link to one of the playlists into [any video player](https://gi
 ## Playlists
 
 The main playlist containing all channels available in the repository can be found at:
+```
+
+
+Playlist includes all known channels except adult channels.
 
 ```
-https://raw.githubusercontent.com/gisonzoa/iptv-github-free/refs/heads/gh-pages/index.m3u
+https://iptv-org.github.io/iptv/index.m3u
 ```
 
 And here is the full version:
 
-...
-
-https://raw.githubusercontent.com/gisonzoa/iptv-github-free/refs/heads/gh-pages/index.nsfw.m3u
 ```
+https://iptv-org.github.io/iptv/index.nsfw.m3u
+```
+
 
 Links to other playlists can be found in the [PLAYLISTS.md](PLAYLISTS.md) file.
 
