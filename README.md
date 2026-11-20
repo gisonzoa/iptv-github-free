@@ -27,16 +27,16 @@ The main playlist containing all channels available in the repository can be fou
 ```
 
 
-Playlist includes all known channels except adult channels.
-
-```
 https://raw.githubusercontent.com/gisonzoa/iptv-github-free/refs/heads/gh-pages/index.m3u
-```
-
-And here is the full version:
 
 ```
+Playlist includes all known channels except adult channels.
+```
+
 https://raw.githubusercontent.com/gisonzoa/iptv-github-free/refs/heads/gh-pages/index.nsfw.m3u
+
+```
+And here is the full version:
 ```
 
 
