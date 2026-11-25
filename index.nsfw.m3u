@@ -24410,8 +24410,8 @@ http://acxme33.com/live/diegolander1/3456k9871/276479.m3u8
 http://acxme33.com/live/diegolander1/3456k9871/83286.m3u8
 #EXTINF:-1  tvg-id="Sextreme.br" tvg-logo="https://i.imgur.com/jWsW2Rd.png" group-title="XXX",Sextreme (1080p)
 http://acxme33.com/live/diegolander1/3456k9871/140651.m3u8
-#EXTINF:-1 tvg-id="BrazzersTVEurope.us" tvg-logo="https://i.imgur.com/95nP0Pb.png" group-title="XXX",Brazzers TV Europa (1080p)
-https://cdn.adultiptv.net/pornstar.m3u8
+#EXTINF:-1 tvg-id="BrazzersTVEurope.us" tvg-logo="https://i.imgur.com/95nP0Pb.png" group-title="XXX",Brazzers TV Europe (1080p)
+http://brtt.foo:80/weligton830/weligton831/276917.m3u8
 #EXTINF:-1 tvg-id="Sexprive.br" tvg-logo="https://i.imgur.com/irp3iLP.png" group-title="XXX",Sexprive (1080p)
 http://acxme33.com/live/diegolander1/3456k9871/83283.m3u8
 #EXTINF:-1 tvg-id="SexyHot.br" tvg-logo="https://i.imgur.com/Fs8xVoY.png" group-title="XXX",Sexy Hot (1080p)
@@ -24439,9 +24439,10 @@ http://brtt.foo/live/weligton830/weligton831/276912.m3u8
 http://brtt.foo:80/weligton830/weligton831/276914.m3u8
 #EXTINF:-1 tvg-id="DorcelXXX.nl" tvg-logo=https://i.imgur.com/ZwMZEKZ.png"group-title="XXX",Dorcel XXX (1080p)
 http://brtt.foo/live/weligton830/weligton831/276913.m3u8
-#EXTINF:-1 tvg-id="PenthousePassion.us" tvg-logo=PenthousePassion.us"group-title="XXX",Penthouse Passion (1080p)
+#EXTINF:-1 tvg-id="PenthousePassion.us" tvg-logo="group-title="XXX",Penthouse Passion (1080p)
 http://brtt.foo:80/weligton830/weligton831/276860.m3u8
-#EXTINF:-1 tvg-id="PenthouseGold.us" tvg-logo=https://i.imgur.com/0JufwBJ.png"group-title="XXX",Penthouse Gold (1080p)
+#EXTINF:-1    tvg-id="PenthouseGold.us"    tvg-
+logo=https://i.imgur.com/0JufwBJ.png"group-title="XXX",Penthouse Gold (1080p)
 http://brtt.foo:80/weligton830/weligton831/276895.m3u8
 
 
