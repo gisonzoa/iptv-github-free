@@ -6373,9 +6373,9 @@ https://vps122407.serveur-vps.net/hls/drtv.m3u8
 https://drybar-drybarcomedy-1-au.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="DSports2.us@Panregional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/DIRECTV_Sports_2_Latin_America_%282018%29.svg/960px-DIRECTV_Sports_2_Latin_America_%282018%29.svg.png" group-title="Sports",DSports 2 (1080p)
 https://playstreaming.net/live/Victoria2000/Victoria2000/592038.m3u8
-#EXTINF:-1 tvg-id="DSports.us@Panregional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/960px-DirecTV_Sports_Latin_America_%282018%29.png" group-title="Sports",DSports
-(1080p)
-https://playstreaming.net/live/Victoria2000/Victoria2000/2366.m3u8
+#EXTINF:-1 tvg-id="DSports.us@Panregional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/960px-DirecTV_Sports_Latin_America_%282018%29.png" group-title="Sports",
+DSports 1080p)
+https://playstreaming.net/live/Victoria2000/Victoria2000/592036.m3u8
 #EXTINF:-1 tvg-id="DSTV.bg@SD" tvg-logo="https://i.imgur.com/YMgzzkf.png" group-title="Music",DSTV (Bulgaria) (614p) [Not 24/7]
 http://46.249.95.140:8081/hls/data.m3u8
 #EXTINF:-1 tvg-id="DSTV.hu@SD" tvg-logo="https://i.imgur.com/xKJoN8L.png" group-title="General",DSTV (Hungary) (720p)
@@ -24431,7 +24431,7 @@ http://brtt.foo:80/weligton830/weligton831/276891.m3u8
 #EXTINF:-1 tvg-id="HustlerTVEurope.nl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/HustlerTV.svg/960px-HustlerTV.svg.png group-title="XXX",Hustler TV (1080p)
 http://brtt.foo:80/weligton830/weligton831/276898.m3u8
 #EXTINF:-1 tvg-id="BlueHustler.nl" tvg-logo="https://i.imgur.com/G1YaX0Q.png" group-title="XXX",Blue Hustler (1080p)
-http://brtt.foo/live/weligton830/weligton831/276918.m3u8
+http://brtt.foo:80/weligton830/weligton831/276918.m3u8
 #EXTINF:-1 tvg-id="EroX.nl" tvg-logo="https://i.imgur.com/B9Fz9Yr.png" group-title="XXX",EroX (1080p)
 http://brtt.foo:80/weligton830/weligton831/276903
 #EXTINF:-1 tvg-id="EroXXX.nl" tvg-logo=https://i.imgur.com/sc11PtR.png"group-title="XXX",EroXXX (1080p)
@@ -24445,6 +24445,12 @@ http://brtt.foo:80/weligton830/weligton831/276860.m3u8
 #EXTINF:-1    tvg-id="PenthouseGold.us"    tvg-
 logo=https://static.wikia.nocookie.net/the-fake-logos-of-the-world/images/c/c8/Received_619950579670856.webp/revision/latest?cb=20220720195035&path-prefix=bg"group-title="XXX",Penthouse Gold (1080p)
 http://brtt.foo:80/weligton830/weligton831/276895.m3u8
+#EXTINF:-1 tvg-id="MiamiTV.us" tvg-logo="https://i.imgur.com/esK4CBZ.png" group-title="XXX",Miami TV (720p)
+#EXTINF:-1 tvg-id="MiamiTVMexico.us" tvg-logo="https://i.imgur.com/MpQtdTb.png" group-title="XXX",Miami TV M¨¦xico (720p) [Not 24/7]
+https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexicoROKU/playlist.m3u8
+#EXTINF:-1 tvg-id="JennyLive.us" tvg-logo="https://i.imgur.com/3vsBZI3.png" group-title="XXX",Miami TV Jenny Live (720p) [Not 24/7]
+https://bdc8100df748400cabc7e133824c8ceb.mediatailor.us-east-2.amazonaws.com/v1/master/c3d3fd1c31fa281b88eab2cd253e2ca576b6628b/fast-jennylive/playlist.m3u8
+
 
 
 
