@@ -29,7 +29,7 @@ https://raw.githubusercontent.com/gisonzoa/iptv-github-free/refs/heads/master1/i
 ```
 Playlist includes all known channels except adult channels.
 ```
-https://raw.githubusercontent.com/gisonzoa/iptv-github-free/refs/heads/master1/index.nsfw.m3u
+https://bit.ly/iptv-github-free-index-nsfw-m3u
 ```
 
 And here is the full version:
