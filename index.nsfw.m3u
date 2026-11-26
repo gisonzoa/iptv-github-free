@@ -6372,9 +6372,9 @@ https://vps122407.serveur-vps.net/hls/drtv.m3u8
 #EXTINF:-1 tvg-id="DryBarComedyPlus.us@SD" tvg-logo="https://i.imgur.com/3N2C60N.png" group-title="Comedy",Dry Bar Comedy+ (720p)
 https://drybar-drybarcomedy-1-au.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="DSports2.us@Panregional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/DIRECTV_Sports_2_Latin_America_%282018%29.svg/960px-DIRECTV_Sports_2_Latin_America_%282018%29.svg.png" group-title="Sports",DSports 2 (1080p)
-http://187.102.208.209:8000/play/a0bq/index.m3u8
+http://espartanos.live/live/12user1506/123456/23440.m3u8
 #EXTINF:-1 tvg-id="DSports.us@Panregional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/960px-DirecTV_Sports_Latin_America_%282018%29.png" group-title="Sports",DSports (1080p)
-http://38.187.7.252:8000/play/a03d/index.m3u8
+http://espartanos.live/live/12user1506/123456/23440.m3u8
 #EXTINF:-1 tvg-id="DSTV.bg@SD" tvg-logo="https://i.imgur.com/YMgzzkf.png" group-title="Music",DSTV (Bulgaria) (614p) [Not 24/7]
 http://46.249.95.140:8081/hls/data.m3u8
 #EXTINF:-1 tvg-id="DSTV.hu@SD" tvg-logo="https://i.imgur.com/xKJoN8L.png" group-title="General",DSTV (Hungary) (720p)
@@ -24434,15 +24434,15 @@ http://brtt.foo/live/weligton830/weligton831/276918.m3u8
 #EXTINF:-1 tvg-id="EroX.nl" tvg-logo="https://i.imgur.com/B9Fz9Yr.png" group-title="XXX",EroX (1080p)
 http://brtt.foo/live/weligton830/weligton831/276903.m3u8
 #EXTINF:-1 tvg-id="EroXXX.nl" tvg-logo=https://i.imgur.com/sc11PtR.png"group-title="XXX",EroXXX (1080p)
-http://brtt.foo/live/weligton830/weligton831/276912.m3u8
+http://brtt.foo:80/weligton830/weligton831/276912.m3u8
 #EXTINF:-1 tvg-id="DorcelTV.nl" tvg-logo=https://i.imgur.com/RkzyjEd.png"group-title="XXX",Dorcel TV (1080p)
 http://brtt.foo:80/weligton830/weligton831/276914.m3u8
 #EXTINF:-1 tvg-id="DorcelXXX.nl" tvg-logo=https://i.imgur.com/ZwMZEKZ.png"group-title="XXX",Dorcel XXX (1080p)
 http://brtt.foo/live/weligton830/weligton831/276913.m3u8
-#EXTINF:-1 tvg-id="PenthousePassion.us" tvg-logo=PenthousePassion.us"group-title="XXX",Penthouse Passion (1080p)
+#EXTINF:-1 tvg-id="PenthousePassion.us" tvg-logo=https://mihsignvision.fandom.com/wiki/Penthouse_Passion?file=Penthouse_Passion_%282019-.n.v.%29.pngPenthousePassion.us"group-title="XXX",Penthouse Passion (1080p)
 http://brtt.foo:80/weligton830/weligton831/276860.m3u8
 #EXTINF:-1    tvg-id="PenthouseGold.us"    tvg-
-logo=https://i.imgur.com/0JufwBJ.png"group-title="XXX",Penthouse Gold (1080p)
+logo=https://static.wikia.nocookie.net/the-fake-logos-of-the-world/images/c/c8/Received_619950579670856.webp/revision/latest?cb=20220720195035&path-prefix=bg"group-title="XXX",Penthouse Gold (1080p)
 http://brtt.foo:80/weligton830/weligton831/276895.m3u8
 
 
