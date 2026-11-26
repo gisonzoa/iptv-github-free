@@ -25,7 +25,7 @@ Simply paste the link to one of the playlists into [any video player](https://gi
 The main playlist containing all channels available in the repository can be found at:
 
 ```
-https://bit.ly/49iEZtr
+https://bit.ly/iptv-github-free-index-m3u
 ```
 Playlist includes all known channels except adult channels.
 ```
