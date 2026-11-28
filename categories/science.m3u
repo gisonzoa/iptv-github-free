@@ -6,6 +6,7 @@ http://stream.mcquack.net/180/index.m3u8
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TECHANDCO/index.m3u8?end=END&start=LIVE
 #EXTINF:-1 tvg-id="BilimIlim.kg@SD" tvg-logo="https://i.ibb.co/qswtSWm/428598841-309456895457301-6206911287895397651-n-1.png" group-title="Kids;Science",Bilim Ilim (480p) [Not 24/7]
 http://gohoski.fvds.ru:3000/mediabay/611/index.m3u8
+#EXTINF:-1 tvg-id="MaussanTelevision.mx" tvg-logo="MaussanTelevision.mx" group-title="Kids;Science",Bilim Ilim (480p) [Not 24/7]
 #EXTINF:-1 tvg-id="CanThoTV2.vn@SD" tvg-logo="https://i.ibb.co/JjVvkMsf/cantho2-2025.png" group-title="Education;Science",Can Tho TV 2 (1080p)
 https://live.canthotv.vn/cs2/live.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="ChuzhouScienceEducationChannel.cn@SD" tvg-logo="https://i.imgur.com/9JfZJRv.png" group-title="Education;Science",Chuzhou Science & Education Channel (400p)
@@ -46,4 +47,4 @@ https://edge.enhdtv.com/8026/index.m3u8
 #EXTINF:-1 tvg-id="Wonder.uk@SD" tvg-logo="https://i.imgur.com/LquGNbh.png" group-title="Science",Wonder (1080p)
 https://lds-wonder-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="MaussanTelevision.mx" tvg-logo="https://i.imgur.com/iTe4QSd.png" http-user-agent="curl/8.16.0" group-title="Science",Maussan Television (720p)
-https://www.youtube.com/live/797GyN_HxHI?si=MZfkszb-n-XpVsAB
+https://www.youtube.com/live/xjrTg5AdumE?si=MOahBizOMYzQ__3_.m3u8
